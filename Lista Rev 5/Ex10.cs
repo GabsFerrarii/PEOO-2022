@@ -18,5 +18,4 @@ public class Program{
     
     return s2;
   }
-  // (p[i] == 'a' || p[i] == 'e' || p[i] == 'i' || p[i] == 'o' || p[i] == 'u' || p[i] == 'A' || p[i] == 'E' || p[i] == 'I' || p[i] == 'O' || p[i] == 'U') 
 }
