@@ -16,7 +16,7 @@ class Disciplina{
   public string nome;
   public double n1, n2, n3, n4, nf;
   public double MediaParcial(){
-    return (2 * n1 + 2 * n2 + 3 * n3 + 3 * 4) / 10;
+    return (2 * n1 + 2 * n2 + 3 * n3 + 3 * n4) / 10;
   }
   public double MediaFinal(){
     return (MediaParcial() + nf)/2; 
