@@ -24,3 +24,4 @@ class Circulo{
     return 2 * 3.14 * raio;
   }
 }
+// n >= 0 && n <= 100 
